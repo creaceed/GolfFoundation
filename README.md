@@ -4,6 +4,8 @@
 
 GolfFoundation is a Swift library for managing data types relating to golf. It is used as a building block of *Golf Quartz*, the Apple Watch (+ iPhone) app for golfers, and *Golf Quartz Mapper*, the course mapping app for Mac. The goal of this library is to let users of these apps freely use their data as well as enabling other apps to build upon this open representation and enable new uses.
 
+![Golf Quartz Image](https://github.com/user-attachments/assets/17599c61-1b0c-4c48-9d1b-0b54bad580dd)
+
 ## Main Data Types
 
 Provided data types include:
